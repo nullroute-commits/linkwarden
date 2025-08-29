@@ -16,7 +16,7 @@
     "@linkwarden/lib": "*",
     "@linkwarden/prisma": "*",
     "@linkwarden/types": "*",
-    "@mozilla/readability": "^0.4.4",
+    "@mozilla/readability": "^0.6.0",
     "@openrouter/ai-sdk-provider": "^0.4.3",
     "ai": "^4.3.9",
     "axios": "^1.5.1",
@@ -30,7 +30,7 @@
     "rss-parser": "^3.13.0",
     "socks-proxy-agent": "^8.0.2",
     "tsx": "^4.19.3",
-    "zod": "^3.23.8"
+    "zod": "^4.1.5"
   },
   "devDependencies": {
     "@playwright/test": "^1.45.0",
